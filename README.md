@@ -3,7 +3,8 @@ FREE TOOL FOR EVERYONE
 
 MESSAGE ME > https://t.me/techiebrain
 
-![tg](https://user-images.githubusercontent.com/125784563/221005811-9acc22ae-041f-4428-aa57-a722fc9c5df9.png)
+![TG](https://user-images.githubusercontent.com/125784563/221007662-026096e3-9a63-4c73-b5e9-00f178a89644.jpeg)
+
 
 A FREE TELEGRAM SCRAPER TOOL
 
