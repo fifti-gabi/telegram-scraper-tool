@@ -1,14 +1,14 @@
 # telegram-scraper-tool
 FREE TOOL FOR EVERYONE
 
-MESSAGE ME > https://t.me/techiebrain
+MESSAGE ME > https://t.me/techiegenius
 
 ![TG](https://user-images.githubusercontent.com/125784563/221007662-026096e3-9a63-4c73-b5e9-00f178a89644.jpeg)
 
 
 A FREE TELEGRAM SCRAPER TOOL
 
-FOR PRIVATE DEALS > https://t.me/techiebrain
+FOR PRIVATE DEALS > https://t.me/techiegenius
 
 # FEATURES
 > you can add multiple accounts
@@ -22,7 +22,7 @@ DO YOU NEED THE BETA VERSION ?
 
 BETA VERSION SCRAPES UNLIMITED MEMBERS
 
-MESSAGE ME > https://t.me/techiebrain
+MESSAGE ME > https://t.me/techiegenius
 
 
 # REQUIREMENTS
@@ -37,7 +37,7 @@ MESSAGE ME > https://t.me/techiebrain
 > pip install requests
 
 
-FREE GUIDE > https://t.me/techiebrain
+FREE GUIDE > https://t.me/techiegenius
 
 # USAGE 
 > manager.py to add accounts
